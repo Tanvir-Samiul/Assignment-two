@@ -1,0 +1,56 @@
+/* mixed style */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: 20px auto;
+}
+.same-color{
+    color: rgba(0, 0, 0, 0.5);
+}
+ span{
+    color: rgb(233, 90, 8);
+}
+
+
+/*nav bar styles */
+.nav-bar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-bar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+
+}
+
+.menu-bar li{
+    list-style: none;
+}
+
+/* hero section styles */
+ .hero-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+    ;
+    margin-top: 125px;
+ }
+ .left-part h3{
+    font-size: 65px;
+    font-weight: bold;
+ }
+.left-part p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+   
