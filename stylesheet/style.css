@@ -194,7 +194,7 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      background-image: url(/assets/deal-bloom.png);
+      background-image: url(../assets/deal-bloom.png);
       
  
       width: 366.22px;
@@ -211,7 +211,7 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      background-image: url(/assets/deal-ana.png);
+      background-image: url(../assets/deal-ana.png);
       width: 366.22px;
       height: 206px;
      
@@ -227,7 +227,7 @@
        flex-direction: column;
        justify-content: center;
        align-items: center;
-       background-image: url(/assets/deal-zabo.png);
+       background-image: url(../assets/deal-zabo.png);
        background-repeat: no-repeat;
        color: white;
        text-decoration: none;
@@ -270,7 +270,7 @@
 
      
      .join-section{
-      background-image: url(/assets/news-letter-bg.png);
+      background-image: url(../assets/news-letter-bg.png);
       background: cover;
       display: flex;
       flex-direction: column;
