@@ -172,3 +172,135 @@
       font-size: 50px;
       font-weight: bolder;
     }
+
+    /* deals section */
+    .upper-div{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .upper-div h6{
+      font-size: 50px;
+      font-weight: 700px;
+      margin-bottom: 15px;
+
+    }
+     .photo-one{
+      
+      border-radius: 7px;
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-image: url(/assets/deal-bloom.png);
+      
+ 
+      width: 366.22px;
+      height: 200px;
+ 
+      border: none;
+     }
+
+     .photo-two{
+      
+      border-radius: 7px;
+       
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-image: url(/assets/deal-ana.png);
+      width: 366.22px;
+      height: 206px;
+     
+         background-size: cover; 
+
+     }
+     .right-photos{
+       
+      width: 70%;
+      border-radius: 8px;
+       height: 420px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       background-image: url(/assets/deal-zabo.png);
+       background-repeat: no-repeat;
+       color: white;
+       text-decoration: none;
+
+
+     }
+     .left-photos{
+      
+      width: 35%;
+      height: 420px;
+      display: flex;
+      flex-direction: column;
+
+      gap: 10px;
+
+
+
+     }
+     .all-photos{
+      display: flex;
+      
+      align-items: center;
+      gap: 10px;
+     }
+     .photo-title{
+      
+      color:white;  
+          font-size: 20px;
+          font-weight: bold;
+
+     }
+     .lower-div{
+      margin-bottom: 60px;
+     }
+     /* join section styles */
+     .join-footer{
+      height: 530px  ;
+      margin-bottom: 50px;
+     }
+
+     
+     .join-section{
+      background-image: url(/assets/news-letter-bg.png);
+      background: cover;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      height: 100%;
+      
+     }
+     .join-div{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     }
+     .join-div input{
+      padding: 8px 20px 8px 20px;
+      width: 640px;
+      height: 50px;
+      border: none;
+     }
+     .join-div button{
+      width: 186px;
+      height: 50px;
+     }
+     .join-section h3{
+      font-size: 50px;
+      font-weight: 700px;
+      color: aliceblue;
+     }
+     
+
+
+     
