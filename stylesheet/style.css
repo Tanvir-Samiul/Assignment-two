@@ -300,7 +300,35 @@
       font-weight: 700px;
       color: aliceblue;
      }
+
+     /* footer styles */
+     .footer-all-div{
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 50px;
+
+     }
      
+       
+     .footer-all-div li{
+      list-style: none;
+      
+     }
+     
+     .emoji-div{
+      display: flex;
+      flex-direction: row;
+      gap: 24px;
+      align-items:  flex-start;
+      justify-content: space-around;
+       
+     }
 
-
+     .menu-style{
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+      align-items: center;
+      justify-content: center;
+     }
      
